@@ -6,6 +6,7 @@ Elo Riders iOS App
 - This repository contains the proof of concept for the Harley-Davidson hackathon. The application utilizes a system based on Elo and artificial intelligence to filter recent events and suggest friends based on their experience level.
 
 - The project is developed in SwiftUI and follows an MVVM (Model-View-ViewModel) architecture for better code organization and maintainability.
+- Main repo: https://github.com/gustavornwz/hackaton-hd-team-2
 
 # Technologies Used
 
@@ -31,7 +32,7 @@ Elo Riders iOS App
 
 1. Clone the repository:
 
-2. git clone git@github.com:EmmaWize/elo-riders-iOSApp.git
+2. git clone git@github.com:emmanuel19972003/harleyHackathon.git
 
 3. Open the project in Xcode.
 
